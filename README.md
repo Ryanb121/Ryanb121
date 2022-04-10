@@ -4,7 +4,4 @@
 
 # 25/05/2022 i will be starting a full stack development bootcamp via School of Code.
 
-# currently i have good knowledge of -
-#HTML
-#CSS
-#JavaScript
+# currently i have good knowledge of - HTML, CSS & JavaScript
